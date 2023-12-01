@@ -1,4 +1,6 @@
-# Estruturas de dados e algoritmos
+<h1 align="center">
+    Estruturas de dados e algoritmos
+<h1/>
 
 <p align="center">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ejunior01/estrutura-de-dados-e-algoritmos">
