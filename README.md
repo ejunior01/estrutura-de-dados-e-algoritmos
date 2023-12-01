@@ -22,35 +22,35 @@ As estruturas de dados e os algoritmos apresentandos no livro serão aplicados n
 
 
 <p align="righ">
-    <a href="https://github.com/ejunior01/estrutura-de-dados-e-algoritmos">
+    <a href="https://github.com/ejunior01/estrutura-de-dados-e-algoritmos/tree/main/code/javascript">
         <img src="https://skillicons.dev/icons?i=js" width=15px/>
         <span>JavaScript</span>
     </a>
 </p>
 
 <p align="righ">
-    <a href="https://github.com/ejunior01/estrutura-de-dados-e-algoritmos">
+    <a href="https://github.com/ejunior01/estrutura-de-dados-e-algoritmos/tree/main/code/typescript">
         <img src="https://skillicons.dev/icons?i=ts" width=15px/>
         <span>TypeScript</span>
     </a>
 </p>
 
 <p align="righ">
-    <a href="https://github.com/ejunior01/estrutura-de-dados-e-algoritmos">
+    <a href="https://github.com/ejunior01/estrutura-de-dados-e-algoritmos/tree/main/code/python">
         <img src="https://skillicons.dev/icons?i=py" width=15px/>
         <span>Python</span>
     </a>
 </p>
 
 <p align="righ">
-    <a href="https://github.com/ejunior01/estrutura-de-dados-e-algoritmos">
+    <a href="https://github.com/ejunior01/estrutura-de-dados-e-algoritmos/tree/main/code/csharp">
         <img src="https://skillicons.dev/icons?i=cs" width=15px/>
         <span>Csharp</span>
     </a>
 </p>
 
 <p align="righ">
-    <a href="https://github.com/ejunior01/estrutura-de-dados-e-algoritmos">
+    <a href="https://github.com/ejunior01/estrutura-de-dados-e-algoritmos/tree/main/code/java">
         <img src="https://skillicons.dev/icons?i=java" width=15px/>
         <span>Java</span>
     </a>
